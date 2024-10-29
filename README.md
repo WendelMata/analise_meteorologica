@@ -27,4 +27,4 @@ O projeto consiste em coletar dados meteorológicos, armazená-los em um banco d
 1. Clone o repositório:
    ```bash
    git clone https://github.com/WendelMata/analise_meteorologica.git
-   cd nome_do_repositorio
+   cd analise_meteorologica
